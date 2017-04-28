@@ -1,0 +1,96 @@
+{
+  "dataList": [
+    {
+      "option": "restaurant",
+      "pointList": [
+        {
+          "location": {
+            "lat": 19.122968,
+            "lng": 72.864139
+          },
+          "name": "Prasadam"
+        },
+        {
+          "location": {
+            "lat": 19.121545,
+            "lng": 72.8521212
+          },
+          "name": "Pallavi Veg Restaurant"
+        },
+        {
+          "location": {
+          "lat": 19.11176,
+          "lng": 72.857984
+          },
+          "name": "China 1 Restaurant"
+        },
+        {
+          "location": {
+            "lat": 19.115626,
+            "lng": 72.857303
+          },
+          "name": "Hare Rama Hare Krishna Restaurant"
+        }
+      ]
+    },
+    {
+      "option": "ATM",
+      "pointList": [
+        {
+          "location": {
+            "lat": 19.120353,
+            "lng": 72.854492
+          },
+          "name": "HDFC Bank ATM"
+        },
+        {
+          "location": {
+            "lat": 19.122462,
+            "lng": 72.85844
+          },
+          "name": "Axis Bank ATM"
+        },
+        {
+          "location": {
+            "lat": 19.12457,
+            "lng": 72.8464
+          },
+          "name": "DCB ATM"
+        },
+        {
+          "location": {
+            "lat": 19.115812,
+            "lng": 72.856954
+          },
+          "name": "Yes Bank ATM"
+        }
+      ]
+    },
+    {
+      "option": "Railway Station",
+      "pointList": [
+        {
+          "location": {
+            "lat": 19.115793,
+            "lng": 72.856428
+          },
+          "name": "Western Express Highway Station"
+        },
+        {
+          "location": {
+            "lat": 19.120459,
+            "lng": 72.848761
+          },
+          "name": "Andheri Station"
+        },
+        {
+          "location": {
+            "lat": 19.136488,
+            "lng": 72.848872
+          },
+          "name": "Jogeshwari Railway Station"
+        }
+      ]
+    }
+  ]
+}
