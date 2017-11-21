@@ -29,5 +29,3 @@ Then x = (0.5 + v0 / v3) * widthOfCameraView and y = (0.5 - v1 / v3) * heightOfC
 
 **Rotation matrix**: you can get this value by using Android sensors
 
-### Demo
-![alt text](./AR-Demo.png)
